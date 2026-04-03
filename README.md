@@ -36,3 +36,8 @@ The tests can be executed by running src/test/java/com/library/library_managemen
 
 - *Option 2:* Run .\mvnw.cmd test in the terminal.
 
+### Testing with Postman
+
+The project includes a postman collection so in case of running tests with
+ postman, the commands do not have to be set up manually. After opening
+postman, the collection can be imported in the top left corner.
